@@ -1,0 +1,88 @@
+.input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .input--error {
+    border-color: #ffeb77;
+  }
+  
+  .input--large {
+    font-size: 10px;
+    padding: 85px;
+  }
+  
+  .input--icono {
+    padding-left: 35px;
+    background-image: url('viktor.gif'); 
+    background-position: 10px center;
+    
+  }
+
+
+  .infin {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .input--pum {
+    border-color: #ffeb77;
+  }
+  
+  .input--larga {
+    font-size: 10px;
+    padding: 85px;
+  }
+  
+  .input--iconu {
+    padding-left: 35px;
+    background-image: url('chow.gif'); 
+    background-position: 10px center;
+    
+  }
+
+  .motomoto {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .input--fi {
+    border-color: #ffeb77;
+  }
+  
+  .input--corto {
+    font-size: 10px;
+    padding: 85px;
+  }
+  
+  .input--gif {
+    padding-left: 35px;
+    background-image: url('motomoto.gif'); 
+    background-position: 10px center;
+    
+  }
+
+
+  .one {
+    padding: px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .input--bien {
+    border-color: #ffeb77;
+  }
+  
+  .input--RH {
+    font-size: 10px;
+    padding: 85px;
+  }
+  
+  .input--IMG {
+    padding-left: 35px;
+    background-image: url('kenny.gif'); 
+    background-position: 10px center;
+  }

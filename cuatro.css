@@ -1,0 +1,17 @@
+.list {
+  margin: 0;
+  padding: 0;
+}
+
+.list--unstyled {
+  list-style-type: none;
+}
+
+.list--inline .listaitem {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.list--hover .listaitem:hover {
+  background-color: white;
+}

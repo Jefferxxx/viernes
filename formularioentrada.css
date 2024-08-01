@@ -1,0 +1,74 @@
+.card {
+  padding: 20px;
+  background-color: #4ab7ff60;
+}
+
+.card--shadow {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.418);
+}
+
+.card--rounded {
+  border-radius: 8px;
+}
+
+.card--hover:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s ease;
+}
+
+
+.CHOW {
+  padding: 20px;
+  background-color: #ffe88471;
+}
+
+.card--shan {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.418);
+}
+
+.card--round {
+  border-radius: 8px;
+}
+
+.card--hoverr:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s ease;
+}
+
+
+.mvp {
+  padding: 20px;
+  background-color: #867653;
+}
+
+.mvp--shadow {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.418);
+}
+
+.mvp--rounded {
+  border-radius: 8px;
+}
+
+.mvp--hover:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s ease;
+}
+
+
+.np {
+  padding: 20px;
+  background-color: #ff7373de;
+}
+
+.np--shadow {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.418);
+}
+
+.np--rounded {
+  border-radius: 8px;
+}
+
+.np--hover:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s ease;
+}
