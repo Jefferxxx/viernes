@@ -1,6 +1,12 @@
+*{
+    margin: 0 auto;
+  padding: 0;
+}
+
 .card {
   padding: 20px;
   background-color: #4ab7ff60;
+  width: 450px;
 }
 
 .card--shadow {
@@ -20,6 +26,7 @@
 .CHOW {
   padding: 20px;
   background-color: #ffe88471;
+  width: 450px;
 }
 
 .card--shan {
@@ -33,12 +40,16 @@
 .card--hoverr:hover {
   transform: translateY(-5px);
   transition: transform 0.3s ease;
+  background-color: rgb(195, 82, 148);
+transform: translateX(60%);
+transition:all 1s ease-in-out;
 }
 
 
 .mvp {
   padding: 20px;
-  background-color: #867653;
+  background-color: #865c53;
+  width: 450px;
 }
 
 .mvp--shadow {
@@ -50,14 +61,17 @@
 }
 
 .mvp--hover:hover {
-  transform: translateY(-5px);
+  transform: scaleY(0);
   transition: transform 0.3s ease;
+  transition:all .6s ease-in-out;
 }
 
 
 .np {
   padding: 20px;
   background-color: #ff7373de;
+  width: 450px;
+
 }
 
 .np--shadow {
@@ -71,4 +85,5 @@
 .np--hover:hover {
   transform: translateY(-5px);
   transition: transform 0.3s ease;
+  -webkit-transform:scale(1.1);transform:scale(1.1);
 }
